@@ -228,13 +228,8 @@ public class Nokia {
                             } 
                     }
         
-            case 8 ->{System.out.println("Prepaid credit");}
-
-
-             
-              
-         
-       
+            case 8 ->{System.out.println("Prepaid credit");
+       }
     }      
    }  // end of menu 4 
        case 5 -> {
